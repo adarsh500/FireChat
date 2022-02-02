@@ -1,5 +1,5 @@
-This is the link to the backend of this app:
-This is the link to the live demo of this app:
+This is the link to the backend of this app: https://github.com/adarsh500/FireChatBack
+This is the link to the live demo of this app: 
 
 # Getting Started with Create React App
 
